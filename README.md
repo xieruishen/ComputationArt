@@ -1,2 +1,2 @@
-# ComputationArt
-Software Design Mini Project 2
+# ComputationalArt
+This is the base repository for the computational art mini project.
